@@ -1,1 +1,3 @@
-# basic astro template
+# Amena @AmenaiSabuwala design
+
+![thumbnail](/public/cover.jpeg)
